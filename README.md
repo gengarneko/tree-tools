@@ -1,10 +1,4 @@
-**💛 You can help the author become a full-time open-source maintainer by [sponsoring him on GitHub](https://github.com/sponsors/egoist).**
-
----
-
-# my-ts-lib
-
-[![npm version](https://badgen.net/npm/v/my-ts-lib)](https://npm.im/my-ts-lib) [![npm downloads](https://badgen.net/npm/dm/my-ts-lib)](https://npm.im/my-ts-lib)
+# tree-tools
 
 ## Using this template
 
@@ -25,11 +19,3 @@ To skip CI (GitHub action), add `skip-ci` to commit message. To skip release, ad
 ```bash
 npm i my-ts-lib
 ```
-
-## Sponsors
-
-[![sponsors](https://sponsors-images.egoist.sh/sponsors.svg)](https://github.com/sponsors/egoist)
-
-## License
-
-MIT &copy; [EGOIST](https://github.com/sponsors/egoist)
